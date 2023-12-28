@@ -1,1 +1,1 @@
-AWS Advanced Graded Assessment
+AWS Advanced Graded Assignment
